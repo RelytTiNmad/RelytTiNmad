@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D811UAU9)
+
 - 👋 Hi, I’m @RelytTiNmad
 - 👀 I’m interested in ... Game Development (Art, Programming, Sound)
 - 🌱 I’m currently learning ... Any Roadblock hit during the process
