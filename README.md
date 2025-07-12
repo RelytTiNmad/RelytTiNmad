@@ -1,7 +1,6 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D811UAU9)
-
-***```Life…is but an endless well to Hell```*** 
 > *ᶠYͧoͨᵏu*
+***```Life…is but an endless well to Hell```*** 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D811UAU9)
 
 - 👋 Hi, I’m @RelytTiNmad
 - 👀 I’m interested in ... Game Development (Art, Programming, Sound)
